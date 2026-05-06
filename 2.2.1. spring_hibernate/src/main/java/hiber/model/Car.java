@@ -16,7 +16,7 @@ public class Car {
     private String model;
 
     @Column
-    int series;
+    private int series;
 
 
 
